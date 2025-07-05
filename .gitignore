@@ -1,0 +1,9 @@
+myenv1/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.pdf
+*.wav
+.DS_Store
